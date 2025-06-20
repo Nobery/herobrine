@@ -7,3 +7,5 @@ Assicurati che:
 
 - Hai installato mineflayer:
        npm install mineflayer vec3
+  
+- Hai cambiato l'ip del server minecraft Nello SCRIPT
