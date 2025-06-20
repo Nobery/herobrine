@@ -1,2 +1,9 @@
-# herobrine
-simple herobrine bot in js
+#✅ PRIMA DI USARLO
+Assicurati che:
+
+- Il bot sia /op nel server (/op Herobrine)
+
+- Cheats siano attivi se sei in LAN
+
+- Hai installato mineflayer:
+       npm install mineflayer vec3
