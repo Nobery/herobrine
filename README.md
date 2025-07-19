@@ -2,15 +2,17 @@
 
 Assicurati che:
 
-- Il bot sia /op nel server (/op Herobrine)
+- ⚠️ Hai **cambiato l'ip** del server minecraft **Nello SCRIPT**
+  
+-🔐**Il bot sia /op nel server**: (/op Herobrine)
 
-- Cheats siano attivi se sei in LAN
+- 🧰 **Cheats** siano attivi se sei in **LAN**
 
-- Hai installato mineflayer:
+-🚩 **Hai installato** mineflayer:
      ```bash
        npm install mineflayer vec3
   
-- Hai cambiato l'ip del server minecraft Nello SCRIPT
+
 
 
 
